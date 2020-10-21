@@ -1,2 +1,2 @@
 # esp-gitlab-monitor
-Gitlab pipelines monitor with esp module
+Gitlab pipelines monitor based on esp module
